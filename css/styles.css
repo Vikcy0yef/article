@@ -193,7 +193,7 @@ padding: 14.2em ;
 
     .padding {
         padding: 2em 1.9em 0;
-        width: 19.4em;
+        
     }
 
     .title {
@@ -211,7 +211,7 @@ padding: 14.2em ;
         border-bottom-left-radius: 0em;
         border-bottom-right-radius: 0.63em;
         padding-top: 0;
-        width: 19.4em;
+    
     }
    
     .share{
@@ -286,7 +286,7 @@ bottom: -0.4em;
         }
     
         .title {
-            font-size: 1.4;
+            font-size: 1.2em;
         }
     
         .desc {
